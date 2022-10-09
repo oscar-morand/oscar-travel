@@ -1,0 +1,13 @@
+.btn-black {
+	background-color: black;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: Arial;
+	transition: 0.1s ease;
+}
+
+.btn-black:hover {
+	background-color: rgb(60,60,60);
+}
